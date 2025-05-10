@@ -25,7 +25,7 @@ Construir um programa educativo (em C) que reproduza, passo a passo, todo o proc
 
 onde `a` é definida como o resultado de uma **divisão modular** `H ⊘ G em Zn`.
 
-## Histórico de Versões 
+### Histórico de Versões 
 
 | Versão | Data | Descrição | Autor(es) |
 | :----: | :--: | :-------- | :-------- |
