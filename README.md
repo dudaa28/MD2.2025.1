@@ -1,10 +1,10 @@
 
 # Validação de Acessos com Verificação Modular – MD2 (UNB)
 
-- **Nome:** Maria Eduarda Quaresma de Andrade  
-- **Matrícula:** 222037577  
-- **Docente:** Cristiane Loesch de Souza Costa  
-- **Disciplina:** Matemática Discreta 2 – 2025.1
+- **Nome:** _Maria Eduarda Quaresma de Andrade_  
+- **Matrícula:** _222037577_  
+- **Docente:** _Cristiane Loesch de Souza Costa_  
+- **Disciplina:** _Matemática Discreta 2 – 2025.1 (Universidade de Brasília)_
 
 ## Contexto da Atividade
 
