@@ -19,11 +19,18 @@ Esta atividade da disciplina de MD2 disponibilizada pela professora Cristiane Lo
 
 ## Objetivo Geral
 
-Construir um programa educativo que reproduza, passo a passo, todo o processo matemático envolvido em calcular:
+Construir um programa educativo (em C) que reproduza, passo a passo, todo o processo matemático envolvido em calcular:
 
 ![image](https://github.com/user-attachments/assets/c9e100ef-786f-43bf-b0af-569ca3b67622)
 
 onde `a` é definida como o resultado de uma **divisão modular** `H ⊘ G em Zn`.
+
+## Histórico de Versões 
+
+| Versão | Data | Descrição | Autor(es) |
+| :----: | :--: | :-------- | :-------- |
+| `1.0`  | 09/05/2025 | Desenvolvimento da atividade | [Maria Eduarda](https://github.com/dudaa28) |
+
 
 
 
